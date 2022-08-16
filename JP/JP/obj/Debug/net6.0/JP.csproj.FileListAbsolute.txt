@@ -1,0 +1,37 @@
+C:\Users\gasab\source\repos\JP\JP\obj\Debug\net6.0\JP.csproj.AssemblyReference.cache
+C:\Users\gasab\source\repos\JP\JP\obj\Debug\net6.0\JP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasab\source\repos\JP\JP\obj\Debug\net6.0\JP.AssemblyInfoInputs.cache
+C:\Users\gasab\source\repos\JP\JP\obj\Debug\net6.0\JP.AssemblyInfo.cs
+C:\Users\gasab\source\repos\JP\JP\obj\Debug\net6.0\JP.csproj.CoreCompileInputs.cache
+C:\Users\gasab\source\repos\JP\JP\bin\Debug\net6.0\JP.exe
+C:\Users\gasab\source\repos\JP\JP\bin\Debug\net6.0\JP.deps.json
+C:\Users\gasab\source\repos\JP\JP\bin\Debug\net6.0\JP.runtimeconfig.json
+C:\Users\gasab\source\repos\JP\JP\bin\Debug\net6.0\JP.dll
+C:\Users\gasab\source\repos\JP\JP\bin\Debug\net6.0\JP.pdb
+C:\Users\gasab\source\repos\JP\JP\obj\Debug\net6.0\JP.dll
+C:\Users\gasab\source\repos\JP\JP\obj\Debug\net6.0\refint\JP.dll
+C:\Users\gasab\source\repos\JP\JP\obj\Debug\net6.0\JP.pdb
+C:\Users\gasab\source\repos\JP\JP\obj\Debug\net6.0\JP.genruntimeconfig.cache
+C:\Users\gasab\source\repos\JP\JP\obj\Debug\net6.0\ref\JP.dll
+D:\Escritorio\CoderHouse\1er final\JP\JP\bin\Debug\net6.0\JP.exe
+D:\Escritorio\CoderHouse\1er final\JP\JP\bin\Debug\net6.0\JP.deps.json
+D:\Escritorio\CoderHouse\1er final\JP\JP\bin\Debug\net6.0\JP.runtimeconfig.json
+D:\Escritorio\CoderHouse\1er final\JP\JP\bin\Debug\net6.0\JP.dll
+D:\Escritorio\CoderHouse\1er final\JP\JP\bin\Debug\net6.0\JP.pdb
+D:\Escritorio\CoderHouse\1er final\JP\JP\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Escritorio\CoderHouse\1er final\JP\JP\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Escritorio\CoderHouse\1er final\JP\JP\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Escritorio\CoderHouse\1er final\JP\JP\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Escritorio\CoderHouse\1er final\JP\JP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Escritorio\CoderHouse\1er final\JP\JP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Escritorio\CoderHouse\1er final\JP\JP\obj\Debug\net6.0\JP.csproj.AssemblyReference.cache
+D:\Escritorio\CoderHouse\1er final\JP\JP\obj\Debug\net6.0\JP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\CoderHouse\1er final\JP\JP\obj\Debug\net6.0\JP.AssemblyInfoInputs.cache
+D:\Escritorio\CoderHouse\1er final\JP\JP\obj\Debug\net6.0\JP.AssemblyInfo.cs
+D:\Escritorio\CoderHouse\1er final\JP\JP\obj\Debug\net6.0\JP.csproj.CoreCompileInputs.cache
+D:\Escritorio\CoderHouse\1er final\JP\JP\obj\Debug\net6.0\JP.csproj.CopyComplete
+D:\Escritorio\CoderHouse\1er final\JP\JP\obj\Debug\net6.0\JP.dll
+D:\Escritorio\CoderHouse\1er final\JP\JP\obj\Debug\net6.0\refint\JP.dll
+D:\Escritorio\CoderHouse\1er final\JP\JP\obj\Debug\net6.0\JP.pdb
+D:\Escritorio\CoderHouse\1er final\JP\JP\obj\Debug\net6.0\JP.genruntimeconfig.cache
+D:\Escritorio\CoderHouse\1er final\JP\JP\obj\Debug\net6.0\ref\JP.dll
