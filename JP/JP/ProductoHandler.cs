@@ -1,7 +1,8 @@
-﻿using System.Data;
+﻿using System;
+using System.Collections.Generic;
 using System.Data.SqlClient;
 
-namespace PreEntregaJuanPabloPeramas
+namespace PreEntregaProyectoJuanPablo
 {
     public class ProductoHandler : dbHandler
     {

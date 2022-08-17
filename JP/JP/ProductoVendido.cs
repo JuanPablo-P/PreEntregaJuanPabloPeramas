@@ -1,5 +1,5 @@
-﻿namespace PreEntregaJuanPabloPeramas
-{
+﻿namespace PreEntregaProyectoJuanPablo 
+{ 
     public class ProductoVendido
     {
         public int Id { get; set; }

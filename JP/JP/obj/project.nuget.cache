@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CBhsyG1bmihdEy3RYlDVQ2Ki0a2lV1Yi1koq7Z820f+B2b8jO5y6EmpLC5ISfPPTGAGalXiAbVjm65Nvo0AJ1Q==",
+  "dgSpecHash": "kXPXbYFVAwHSq8IBJMIGsQ6low8oyAKu7jpe6gdHc7D3BJ7GbT/8v8YQ/5qHYnebdivHgmJTrE4MgGc2M+Ufiw==",
   "success": true,
-  "projectFilePath": "D:\\Escritorio\\CoderHouse\\1er final\\JP\\JP\\PreEntregaProyectoJuanPablo.csproj",
+  "projectFilePath": "D:\\Escritorio\\CoderHouse\\PreEntregaJuanPabloPeramas\\JP\\JP\\PreEntregaProyectoJuanPablo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juanpi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Juanpi\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

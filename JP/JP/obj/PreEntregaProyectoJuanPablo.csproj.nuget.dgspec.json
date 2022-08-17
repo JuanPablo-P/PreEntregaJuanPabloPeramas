@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\CoderHouse\\1er final\\JP\\JP\\PreEntregaProyectoJuanPablo.csproj": {}
+    "D:\\Escritorio\\CoderHouse\\PreEntregaJuanPabloPeramas\\JP\\JP\\PreEntregaProyectoJuanPablo.csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\CoderHouse\\1er final\\JP\\JP\\PreEntregaProyectoJuanPablo.csproj": {
+    "D:\\Escritorio\\CoderHouse\\PreEntregaJuanPabloPeramas\\JP\\JP\\PreEntregaProyectoJuanPablo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\CoderHouse\\1er final\\JP\\JP\\PreEntregaProyectoJuanPablo.csproj",
+        "projectUniqueName": "D:\\Escritorio\\CoderHouse\\PreEntregaJuanPabloPeramas\\JP\\JP\\PreEntregaProyectoJuanPablo.csproj",
         "projectName": "PreEntregaProyectoJuanPablo",
-        "projectPath": "D:\\Escritorio\\CoderHouse\\1er final\\JP\\JP\\PreEntregaProyectoJuanPablo.csproj",
+        "projectPath": "D:\\Escritorio\\CoderHouse\\PreEntregaJuanPabloPeramas\\JP\\JP\\PreEntregaProyectoJuanPablo.csproj",
         "packagesPath": "C:\\Users\\Juanpi\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\CoderHouse\\1er final\\JP\\JP\\obj\\",
+        "outputPath": "D:\\Escritorio\\CoderHouse\\PreEntregaJuanPabloPeramas\\JP\\JP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juanpi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

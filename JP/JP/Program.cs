@@ -1,19 +1,19 @@
-﻿namespace PreEntregaJuanPabloPeramas
+﻿using System;
+
+namespace PreEntregaProyectoJuanPablo
 {
-    class ProbarObjetos
+    class Program
     {
 
         static void Main(string[] args)
         {
+            Console.WriteLine("*******************************************************************************");
             ProductoHandler productoHandler = new ProductoHandler();
-            productoHandler.TraerProductos();
+            //productoHandler.TraerProductos();
 
             UsuarioHandler usuarioHandler = new UsuarioHandler();
             usuarioHandler.TraerUsuarios(); 
             
         }
-
     }
-
-
-}
+    }

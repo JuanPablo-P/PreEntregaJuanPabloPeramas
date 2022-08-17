@@ -1,4 +1,4 @@
-﻿namespace PreEntregaJuanPabloPeramas
+﻿namespace PreEntregaProyectoJuanPablo
 {
     public abstract class dbHandler
     {
@@ -8,5 +8,4 @@
     }
 }
 
- 
-  
+

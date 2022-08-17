@@ -1,4 +1,4 @@
-﻿namespace PreEntregaJuanPabloPeramas
+﻿namespace PreEntregaProyectoJuanPablo
 {
     public class Producto
     {
